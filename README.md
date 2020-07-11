@@ -16,7 +16,7 @@ Project is created with:
 
 ## Setup
 To open and run this project, follow this commands:
-1. git clone https://github.com/wlazlok/Bomberman.git
+1. git clone https://github.com/Miatosz/Bomberman-game
 2. cd Bomberman
 3. python main.py
 
